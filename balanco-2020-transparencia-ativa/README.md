@@ -32,6 +32,15 @@
 
 # Apêndice
 
+## Transparência Ativa em Números
+
+- Acessos Portal da Transparência
+- Acessos Portal de Dados Abertos
+- Atendimentos Fale Conosco
+- Atendimentos Acesso à Informação
+- Casos Mantis
+- Manifestações Projetos de Lei
+
 ## Notícias
 
 - [O Portal da Transparência de MG disponibiliza, para a consulta e controle social dos cidadãos e cidadãs, todas as contratações emergenciais destinadas ao enfrentamento do COVID-19 no estado](https://cge.mg.gov.br/noticias-artigos/724-o-portal-da-transparencia-de-mg-disponibiliza-para-a-consulta-e-controle-social-dos-cidadaos-e-cidadas-todas-as-contratacoes-emergenciais-destinadas-ao-enfrentamento-do-covid-19-no-estado) 30/03
