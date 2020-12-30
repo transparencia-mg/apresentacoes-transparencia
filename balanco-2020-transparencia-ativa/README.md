@@ -4,15 +4,15 @@
 
 - __Divulgação das contratações emergenciais destinadas ao enfrentamento do COVID-19 no estado__. 
 
-_Em 27/03, a CGE, por meio do Ofício Circular CGE/GAB nº 04/2020 (processo SEI 1520.01.0002680/2020-24), orientou a todos os órgãos e entidades quanto a obrigatoriedade de divulgação em seus próprios sítios eletrônicos dos processos de compras realizadas para o enfrentamento do coronavírus com fulcro na Lei Federal nº 13.979. No mesmo ofício, solicitou-se que essas informações fossem encaminhadas a CGE para publicação consolidada no Portal da Transparência como dados abertos._
+_Em 27/03, a CGE, por meio do Ofício Circular CGE/GAB nº 04/2020 (processo SEI 1520.01.0002680/2020-24), orientou a todos os órgãos e entidades quanto a obrigatoriedade de divulgação em seus próprios sítios eletrônicos dos processos de compras realizados para o enfrentamento do coronavírus com fulcro na Lei Federal nº 13.979/2020. No mesmo ofício, solicitou-se que essas informações fossem encaminhadas a CGE para publicação consolidada no Portal da Transparência como dados abertos._
 
 - __Divulgação de casos notificados e casos confirmados de COVID-19 em formato aberto__. 
 
-_Em 29/04 dois novos conjuntos de dados abertos sobre a COVID-19 foram disponibilizados no Portal de Dados Abertos e no Painel de Informe Epidemiológico do Coronavírus com atualização diária. O primeiro conjunto de dados, apresentados no “Painel do Informe Epidemiológico do Coronavírus”, traz todas as notificações – confirmadas ou não – de casos suspeitos da infecção no estado, discriminadas por sexo, idade, município, dentre outras informações. No Portal de Dados Abertos de MG estão disponibilizadas, além daquelas do Painel Epidemiológico, informações relativas especificamente aos casos confirmados, como necessidade de internação em UTI ou enfermaria, especificação de sexo, idade, município._
+_Em 29/04 dois novos conjuntos de dados abertos sobre a COVID-19 foram disponibilizados no Portal de Dados Abertos e no Painel de Informe Epidemiológico do Coronavírus com atualização diária. O primeiro conjunto de dados, apresentados no “Painel do Informe Epidemiológico do Coronavírus”, traz todas as notificações – confirmadas ou não – de casos suspeitos da infecção no estado, discriminadas por sexo, idade, município, dentre outras informações. No Portal de Dados Abertos de MG estão disponibilizadas, além daqueles dados do Painel Epidemiológico, informações relativas especificamente aos casos confirmados, como necessidade de internação em UTI ou enfermaria, especificação de sexo, idade, município._
 
-- __Criação de [seção exclusiva no Portal da Transparência](http://www.transparencia.mg.gov.br/covid-19) para divulgar dados referentes à COVID-19 no estado de Minas__. 03/06
+- __Criação de [seção exclusiva no Portal da Transparência](http://www.transparencia.mg.gov.br/covid-19) para divulgar dados referentes à COVID-19 no estado de Minas Gerais__. 03/06
 
-- __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais__. 10/06
+- __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais no Portal de Dados Abertos__. 10/06
 
 - __Ampliação das informações divulgadas na seção exclusiva do Portal da Transparência__. 24/08
 
@@ -28,7 +28,7 @@ Inclusão de modos de pesquisa adicionais [consulta restos a pagar](http://www.t
 
 Inclusão do filtro “situação do servidor” na [consulta de remuneração](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); 
 
-Incorporação fale conosco centralizado; 
+Incorporação [fale conosco](http://transparencia.mg.gov.br/faleconosco) centralizado; 
 
 Integração com SIAFI - campo histórico do empenho; 
 
@@ -46,7 +46,7 @@ Novo domínio www.dados.mg.gov.br
 
 - __Ação 53 Plano de Integridade __. 29/10
 
-Revisar o Item de Perguntas e Respostas do sítio eletrônico da CGE
+Revisar o Item de Perguntas e Respostas do sítio eletrônico da CGE - [Perguntas Frequentes](http://transparencia.mg.gov.br/perguntas-frequentes)
 
 - __INOVA 2020: Dados Abertos sem Fricção__ 01/12
 
@@ -56,7 +56,7 @@ Revisar o Item de Perguntas e Respostas do sítio eletrônico da CGE
 
 Episódio do podcast da CGE [disponibilizado no youtube](https://www.youtube.com/watch?v=uFdYbIc_4ws)
 
-- __Publicação do conjunto de dados ["Remuneração dos Servidores Ativos do Poder Executivo"](http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos)__. 04/12
+- __Publicação do conjunto de dados [Remuneração dos Servidores Ativos do Poder Executivo](http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos)__. 04/12
 
 Contendo toda a série histórica mensal da remuneração desde o seu início de divulgação pelo Portal da Transparência (junho de 2012)
 
