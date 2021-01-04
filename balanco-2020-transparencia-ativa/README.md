@@ -10,11 +10,16 @@ _Em 27/03, a CGE, por meio do Ofício Circular CGE/GAB nº 04/2020 (processo SEI
 
 _Em 29/04 dois novos conjuntos de dados abertos sobre a COVID-19 foram disponibilizados no Portal de Dados Abertos e no Painel de Informe Epidemiológico do Coronavírus com atualização diária. O primeiro conjunto de dados, apresentados no “Painel do Informe Epidemiológico do Coronavírus”, traz todas as notificações – confirmadas ou não – de casos suspeitos da infecção no estado, discriminadas por sexo, idade, município, dentre outras informações. No Portal de Dados Abertos de MG estão disponibilizadas, além daqueles dados do Painel Epidemiológico, informações relativas especificamente aos casos confirmados, como necessidade de internação em UTI ou enfermaria, especificação de sexo, idade, município._
 
-- __Criação de [seção exclusiva no Portal da Transparência](http://www.transparencia.mg.gov.br/covid-19) para divulgar dados referentes à COVID-19 no estado de Minas Gerais__. 03/06
+- __Criação de [seção exclusiva no Portal da Transparência](http://www.transparencia.mg.gov.br/covid-19) para divulgar dados referentes à COVID-19 no estado de Minas Gerais__.
+
+_Em 03/06, foi criado no Portal da Transparência, seção exclusiva para divulgar dados referentes à COVID-19 no estado de Minas. As informações disponíveis na nova seção são relativas aos Contratos Emergenciais amparados pela Lei Federal nº 13.979, de 6 de fevereiro de 2020 e Lei Estadual nº 23.640, de 14 de maio de 2020 para aquisição de bens, serviços, inclusive de engenharia, obras, alienações e locações necessários ao enfrentamento da calamidade de saúde pública e estado de emergência decorrentes da COVID-19. É possível, ainda, consultar a legislação de referência, os relatórios de execução financeira, dados dos contratados, valores, dentre outras informações, de forma estruturada e em formato aberto. A seção também disponibiliza um canal da Ouvidoria específico para denúncias, reclamações e sugestões relativas ao Coronavírus._
 
 - __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais no Portal de Dados Abertos__. 10/06
+_Em 10/06, no Portal de Dados Abertos foram ampliadas as informações sobre o conjunto de dados de contratações emergenciais para o enfrentamento do coronavírus.
+Foram incluídos dados sobre
 
-- __Ampliação das informações divulgadas na seção exclusiva do Portal da Transparência__. 24/08
+- __Ampliação das informações divulgadas na seção exclusiva do Portal da Transparência__.
+_Em 24/08, visando melhorar a qualidade das informações divulgadas no Portal da Transparência para as ações de enfrentamento ao combate a pandemia da COVID-19, a Controladoria-Geral do Estado em parceria com diversas Secretarias amplia o rol de funcionalidades do Portal da Transparência. Dentre várias medidas implementadas, destaca-se a utilização da ferramenta do Power BI que permite visualizações interativas e recursos de business intelligence com uma interface simples para que os usuários naveguem pelos dados de compras e contratações emergenciais para o enfrentamento da COVID-19. Também foi disponibilizada a relação das doações recebidas pela força-tarefa, gerenciada pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações. Já com as parcerias promovidas entre a CGE, SEDESE e SEDE, o Portal da Transparência inicia a divulgação das medidas de enfrentamento e mitigação dos efeitos socioeconômicos da pandemia. Nessa seção o cidadão pode se informar sobre as políticas implementadas pelo governo com foco na proteção social e acessar as medidas econômicas adotadas para minimizar os impactos da pandemia na economia._
 
 ## Prevenção – Ações preventivas realizadas
 
