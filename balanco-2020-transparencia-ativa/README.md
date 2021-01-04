@@ -102,8 +102,8 @@ _A partir de 17/12, as consultas do Portal da Transparência que necessitam da d
 |---------------------|-----------|-------------------------------------------------|---------------------|
 | fale conosco        | BPMS      | 228                                             | setembro a dezembro |
 | fale conosco        | email     | 95                                              | até 27/08           |
-| acesso À informação |           |                                                 | 2020                |
-| Mantis              |           | 12 abertos e ainda não resolvidos pela PRODEMGE | 2020                |
+| acesso À informação |e-SIC      | 11 pedidos respondidos                          | 2020                |
+| Mantis              |PRODEMGE   | 34 abertos e 24 fechados                        | 2020                |
 
 - Manifestações Projetos de Lei
 
