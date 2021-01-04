@@ -14,11 +14,13 @@ _Em 29/04 dois novos conjuntos de dados abertos sobre a COVID-19 foram disponibi
 
 _Em 03/06, foi criado no Portal da Transparência, seção exclusiva para divulgar dados referentes à COVID-19 no estado de Minas. As informações disponíveis na nova seção são relativas aos Contratos Emergenciais amparados pela Lei Federal nº 13.979, de 6 de fevereiro de 2020 e Lei Estadual nº 23.640, de 14 de maio de 2020 para aquisição de bens, serviços, inclusive de engenharia, obras, alienações e locações necessários ao enfrentamento da calamidade de saúde pública e estado de emergência decorrentes da COVID-19. É possível, ainda, consultar a legislação de referência, os relatórios de execução financeira, dados dos contratados, valores, dentre outras informações, de forma estruturada e em formato aberto. A seção também disponibiliza um canal da Ouvidoria específico para denúncias, reclamações e sugestões relativas ao Coronavírus._
 
-- __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais no Portal de Dados Abertos__. 10/06
+- __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais no Portal de Dados Abertos__.
+
 _Em 10/06, no Portal de Dados Abertos foram ampliadas as informações sobre o conjunto de dados de contratações emergenciais para o enfrentamento do coronavírus.
 Foram incluídos dados sobre
 
 - __Ampliação das informações divulgadas na seção exclusiva do Portal da Transparência__.
+
 _Em 24/08, visando melhorar a qualidade das informações divulgadas no Portal da Transparência para as ações de enfrentamento ao combate a pandemia da COVID-19, a Controladoria-Geral do Estado em parceria com diversas Secretarias amplia o rol de funcionalidades do Portal da Transparência. Dentre várias medidas implementadas, destaca-se a utilização da ferramenta do Power BI que permite visualizações interativas e recursos de business intelligence com uma interface simples para que os usuários naveguem pelos dados de compras e contratações emergenciais para o enfrentamento da COVID-19. Também foi disponibilizada a relação das doações recebidas pela força-tarefa, gerenciada pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações. Já com as parcerias promovidas entre a CGE, SEDESE e SEDE, o Portal da Transparência inicia a divulgação das medidas de enfrentamento e mitigação dos efeitos socioeconômicos da pandemia. Nessa seção o cidadão pode se informar sobre as políticas implementadas pelo governo com foco na proteção social e acessar as medidas econômicas adotadas para minimizar os impactos da pandemia na economia._
 
 ## Prevenção – Ações preventivas realizadas
