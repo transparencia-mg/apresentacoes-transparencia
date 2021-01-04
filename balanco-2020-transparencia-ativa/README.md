@@ -17,7 +17,7 @@ _Em 03/06, foi criado no Portal da Transparência, seção exclusiva para divulg
 - __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais no Portal de Dados Abertos__.
 
 _Em 10/06, no Portal de Dados Abertos foram ampliadas as informações sobre o conjunto de dados de contratações emergenciais para o enfrentamento do coronavírus.
-Foram incluídos dados sobre
+Foram incluídos novos dados sobre o processo de compra, como por exemplo situação do processo e procedimento de contratação. Foram inclúidos também informações sobre o item de material e serviço do processo de compra (código, item, cidade de entrega, quantidade homologada e valores de referência e valores homologado). Foi alterada a separação de CSV para (,) e alteração no formato das colunas data de YYYYMMDD para YYYY-MM-DD e alterações de nomenclaturas de algumas colunas._
 
 - __Ampliação das informações divulgadas na seção exclusiva do Portal da Transparência__.
 
