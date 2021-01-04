@@ -68,8 +68,15 @@ _A partir de 17/12, as consultas do Portal da Transparência que necessitam da d
 
 ## Transparência Ativa em Números
 
-- Acessos Portal da Transparência
-- Acessos Portal de Dados Abertos
+- Acessos Portal da Transparência e Portal de Dados Abertos:
+
+| instância | período   | sessões   | tempo médio da sessão | sessões por usuário | páginas por sessão | visualizações de página | visualizações únicas | tempo médio na página | taxa de rejeição | usuários novos | cluster mais acessado |
+|-----------|-----------|-----------|-----------------------|---------------------|--------------------|-------------------------|----------------------|-----------------------|------------------|----------------|-----------------------|
+| PORTAL    | ano       | 1.633.768 | 00:04:19              | 1,72                | 6,37               | 10.408.519              | 7.839.830            | 00:00:48              | 33,01%           | 931.080        | remuneracao           |
+| CKAN      | semestre  | 13.192    | 00:01:41              | 1,26                | 3,26               | 42.962                  | 30.490               | 00:00:44              | 50,31%           | 10.505         | covid-19              |
+| PORTAL    | media_mes | 136.147   | -                     | -                   | -                  | 867.377                 | 653.319              | -                     | -                | 77.590         | -                     |
+| CKAN      | media_mes | 2.638     | -                     | -                   | -                  | 8.592                   | 6.098                | -                     | -                | 2.101          | -                     |
+
 - Atendimentos Fale Conosco
 - Atendimentos Acesso à Informação
 - Casos Mantis
