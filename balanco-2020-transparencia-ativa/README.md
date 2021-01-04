@@ -29,17 +29,27 @@ _Em 24/08, visando melhorar a qualidade das informações divulgadas no Portal d
 
 Anonimização de dados pessoais; 
 
+_Em 21/12 as consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada. Tal método consiste em ocultar os três primeiros dígitos e os dois últimos dígitos verificadores dos CPFs: assim, o que antes aparecia como 000.000.000-00 agora será visto como ***.000.000-**, em todas as formas de exibição (gráficos e tabelas; formulários de detalhamento; tabela do nível nome do classificado; pesquisa avançada; impressão e exportação para csv ou pdf). Esse método foi aplicado nas consultas de: Despesas; Restos a Pagar; Compras e Contratos; Concursos realizados; Diárias; Viagens; Gestão da Frota; Patrimônio._
+
 Inclusão da possibilidade de marcar e desmarcar todos os checkboxes nas [pesquisas avançadas](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-pesquisa-avancada); 
+
+_A partir de 14/04, o Portal da Transparência passou a contar com uma nova funcionalidade nas Pesquisas Avançadas: opção de marcar/desmarcar todas as opções disponíveis para consulta. O usuário ao entrar na Pesquisa Avançada das consultas do Portal, pode marcar/desmarcar o campo "Exibir Todos", e assim com apenas um clique selecionar todas as opções que deseja exibir na sua consulta personalizada._
 
 Inclusão de modos de pesquisa adicionais [consulta restos a pagar](http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar?view=estado_restospagar); 
 
+_Em 27/08 com o objetivo de facilitar as consultas do Portal da Transparência de Minas Gerais, o cidadão terá a disposição mais uma ferramenta. A consulta de Restos a Pagar passa a contar com o Filtro "Favorecido", como já acontece na consulta de Despesa. Assim, o cidadão poderá consultar as despesas de exercícios anteriores utilizando as opções de consulta de Nome ou CPF/CNPJ do Credor pessoa física/jurídica. Essa opção de consulta por favorecido está disponível para todos os anos da consulta de Restos a Pagar, de 2002 a 2020._
+
 Inclusão do filtro “situação do servidor” na [consulta de remuneração](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); 
+
+
 
 Incorporação [fale conosco](http://transparencia.mg.gov.br/faleconosco) centralizado; 
 
 Integração com SIAFI - campo histórico do empenho; 
 
 Atualização da interface de divulgação da consulta de remuneração; 
+
+_Em 27/08, com o objetivo de agregar informações e facilitar a navegação às consultas do Portal da Transparência de Minas Gerais, o cidadão agora tem à disposição novas funcionalidades. A consulta de Remuneração de servidores do Poder Executivo Estadual foi reestruturada, de forma que o cidadão poderá consultar o histórico mensal da remuneração de determinado servidor, numa mesma página, bem como realizar o download desse histórico, que inclui também a situação funcional do servidor selecionado em cada mês._
 
 Inclusão da memória de cálculo valor pago
 
