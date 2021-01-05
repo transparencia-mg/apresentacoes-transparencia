@@ -41,7 +41,7 @@ _Em 27/08 com o objetivo de facilitar as consultas do Portal da Transparência d
 
 Inclusão do filtro “situação do servidor” na [consulta de remuneração](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); 
 
-
+_
 
 Incorporação [fale conosco](http://transparencia.mg.gov.br/faleconosco) centralizado; 
 
@@ -65,17 +65,17 @@ Novo domínio www.dados.mg.gov.br
 
 Revisar o Item de Perguntas e Respostas do sítio eletrônico da CGE - [Perguntas Frequentes](http://transparencia.mg.gov.br/perguntas-frequentes)
 
-- __INOVA 2020: Dados Abertos sem Fricção__ 01/12
+- __INOVA 2020: Dados Abertos sem Fricção__ 
 
-[Oficina realizada](https://www.youtube.com/embed/tZ0bmlnqMuY) durante a Semana INOVA da PRODEMGE
+_ Em 01/12, a Controladoria-Geral do Estado de MG (CGE) faz parte do INOVA 2020 - 3ª Semana de Inovação, entre os dias 30/11 e 4/12, evento promovido pela Prodemge com o objetivo de promover a inovação, o conhecimento e a troca de experiências entre órgãos e entidades da área pública, academia e iniciativa privada. As oficinas serão online e gratuitas. No dia 01 de dezembro a CGE apresenta “A Trilha é Data Science: Dados abertos sem fricção”. A oficina irá demonstrar, de forma simples, ferramentas que tem como objetivo reduzir ou eliminar “a fricção”, ou seja, o tempo que os consumidores gastam para poder entender e trabalhar com dados abertos.  “Queremos ensinar aos participantes como documentar os dados de forma que não haja atrito/fricção nessa compreensão – usando especificações já conhecidas nesse mundo de dados. E essa etapa é crucial no desenvolvimento de uma boa política de dados abertos.”, explicou, André Luiz Guimarães Amorim, da diretoria de transparência ativa da CGE. [Oficina realizada](https://www.youtube.com/embed/tZ0bmlnqMuY) durante a Semana INOVA da PRODEMGE_
 
-- __Dados abertos é o tema do 17º episódio do PodeFalar!__ 03/12
+- __Dados abertos é o tema do 17º episódio do PodeFalar!__
 
-Episódio do podcast da CGE [disponibilizado no youtube](https://www.youtube.com/watch?v=uFdYbIc_4ws)
+_Em 03/12, a Subcontroladora de Transparência e Integridade da Controladoria-Geral do Estado de MG, Nicolle Bleme, conversa com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci, sobre transparência ativa e, mais especificamente, dados abertos. Segundo definição da própria Open Knowledge Brasil, dados são abertos quando qualquer pessoa pode livremente acessá-los, utilizá-los, modificá-los e compartilhá-los para qualquer finalidade, estando sujeito a, no máximo, a exigências que visem preservar sua proveniência e sua abertura. Por esses motivos, dados abertos são uma importante ferramenta para o controle social e o combate à corrupção. “É uma honra conversar com vocês e é muito importante que de dentro do governo se produza conteúdos como esse.”, afirmou Campagnucci. [disponibilizado no youtube](https://www.youtube.com/watch?v=uFdYbIc_4ws)_
 
-- __Publicação do conjunto de dados [Remuneração dos Servidores Ativos do Poder Executivo](http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos)__. 04/12
+- __Publicação do conjunto de dados [Remuneração dos Servidores Ativos do Poder Executivo](http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos)__.
 
-Contendo toda a série histórica mensal da remuneração desde o seu início de divulgação pelo Portal da Transparência (junho de 2012)
+_Em 04/12, os arquivos da serie histórica a partir de junho de 2012 contendo a remuneração dos servidores públicos ativos do Poder Executivo Estadual foram disponibilizados no Portal de Dados Abertos no endereço eletrônico: http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos_
 
 - __Descaracterização de CPFs__. 
 
