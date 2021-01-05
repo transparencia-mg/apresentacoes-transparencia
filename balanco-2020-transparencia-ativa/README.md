@@ -41,11 +41,15 @@ _Em 27/08 com o objetivo de facilitar as consultas do Portal da Transparência d
 
 Inclusão do filtro “situação do servidor” na [consulta de remuneração](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); 
 
-_
+_Em 20/04 foi disponibilizada na consulta de Remuneração o filtro Situação do Servidor, essa alteração teve por objetivo melhorar a navegação e a busca quando estiverem sendo divulgados no Portal dados sobre servidores ativos, inativos, pensionistas entre outros._
 
 Incorporação [fale conosco](http://transparencia.mg.gov.br/faleconosco) centralizado; 
 
+_Em 08/05 foi realizada a incorporação do Fale Conosco padrão do Estado de Minas Gerais ao Portal da Transparência. Com essa alteração foi criado um fale conosco do Portal da Transparência padronizado e o acompanhamento das demandas passou a ser realizdo pela equipe da DTA._ 
+
 Integração com SIAFI - campo histórico do empenho; 
+
+_Em 13/07, foi incluído nas consultas de Despesas, Restos a Pagar e Diárias informações sobre no campo Histórico de Empenho disponíveis no SIAFI. Nesse sentido, com o objetivo de padronizar as informações destes campos no SIAFI, foi recomendado aos responsáveis pelo preenchimento a observação dos seguintes procedimentos: descrever nos campos Histórico de Apropriação do Empenho e Histórico de Referência informações claras e objetivas que facilitem a identificação da despesa e não utilizar informações pessoais do beneficiário da despesa, como por exemplo: Nome, CPF, PIS/NIS, endereço, e-mails e outros dados que caracterizem informação pessoal. Essas mudanças estão alinhadas com a diretriz estratégica do Governo de Minas Gerais que tem se empenhado em fortalecer e ampliar a transparência dos atos de gestão pública e de transparência institucional._
 
 Atualização da interface de divulgação da consulta de remuneração; 
 
@@ -53,17 +57,19 @@ _Em 27/08, com o objetivo de agregar informações e facilitar a navegação às
 
 Inclusão da memória de cálculo valor pago
 
-- __Guia de Transparência Ativa__. 26/06
+_Em 06/05, foi alterada a forma de divulgação de informações sobre pagamentos de despesas. Mais especificamente na: alteração do formulário de detalhamento (opção pagamento); alteração do nome das tabelas; alteração da conceito dos tooltips das consultas de despesa, restos a pagar e diárias; alteração do cálculo do valor repassado na consulta de convênios. Essa alteração foi necessária para esclarecer dúvidas aos credores sobre o efetivo depósito dos valores registrados no Portal como pagos, sendo motivo de questionamentos recorrentes à equipe gestora do Portal da Transparência, inclusive por parte de órgãos estaduais._
 
-Consulta pública realizada
+- __Guia de Transparência Ativa__
 
-- __Lançamento Portal de Dados Abertos__. 18/07
+_ Em 26/06, foi aberto o prazo para envio de comentários e sugestões à Consulta Pública sobre o Guia de Transparência Ativa. O prazo para recebimento de contribuições da consulta pública vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições diretamente no texto do Guia. O Guia de Transparência Ativa é uma compilação de obrigações, cujo objetivo é auxiliar no correto cumprimento da Lei Federal nº 12.527, de 18 de novembro de 2011 - Lei de Acesso à Informação (LAI) e demais normas que regem o assunto. Além disso, o guia, em conjunto com o checklist de transparência ativa, serve como referência para condução da ação de Avaliação da transparência ativa nos sítios eletrônicos dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais prevista no Plano de Atividades de Controle Interno (PACI) 2020._
 
-Novo domínio www.dados.mg.gov.br
+- __Lançamento Portal de Dados Abertos__
 
-- __Ação 53 Plano de Integridade __. 29/10
+_Em 18/07, a seção de Dados Abertos do Portal da Transparência foi sucedida pelo novo Portal de Dados Abertos. A seção de Dados Abertos do Portal da Transparência teve como escopo dar publicidade a informações sobre os processos de gestão de finanças públicas dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais. Com escopo mais amplo, o Portal de Dados Abertos visa ser ponto de referência para busca e acesso a dados públicos sobre quaisquer assuntos de interesse da sociedade, como saúde, educação, segurança pública, assistência social, esportes, turismo. Além disso, com o intuito de aumentar a qualidade dos dados e metadados publicados, os novos conjuntos de dados serão documentados conforme padrão de metadados legível por máquina. Isso possibilita, por exemplo, a validação automática se os dados estão em conformidade com a documentação._
 
-Revisar o Item de Perguntas e Respostas do sítio eletrônico da CGE - [Perguntas Frequentes](http://transparencia.mg.gov.br/perguntas-frequentes)
+- __Ação 53 Plano de Integridade __
+
+_29/10 foi realizada a revisão do item perguntas e respostas do sítio eletrônico com inclusão de respostas com as perguntas mais recorrentes do e-SIC enviadas a CGE. O trabalho faz parte da ação 53 do Plano de Integridade da CGE que teve por objetivo o aprimoramento da divulgação espontânea de informações de interesse coletivo ou geral e redução das demandas do e-SIC e Fale Conosco. [Perguntas Frequentes](http://transparencia.mg.gov.br/perguntas-frequentes)_
 
 - __INOVA 2020: Dados Abertos sem Fricção__ 
 
