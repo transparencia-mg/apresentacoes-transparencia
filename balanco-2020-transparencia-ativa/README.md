@@ -12,82 +12,90 @@ _Em 29/04 dois novos conjuntos de dados abertos sobre a COVID-19 foram disponibi
 
 - __Criação de [seção exclusiva no Portal da Transparência](http://www.transparencia.mg.gov.br/covid-19) para divulgar dados referentes à COVID-19 no estado de Minas Gerais__.
 
-_Em 03/06, foi criado no Portal da Transparência, seção exclusiva para divulgar dados referentes à COVID-19 no estado de Minas. As informações disponíveis na nova seção são relativas aos Contratos Emergenciais amparados pela Lei Federal nº 13.979, de 6 de fevereiro de 2020 e Lei Estadual nº 23.640, de 14 de maio de 2020 para aquisição de bens, serviços, inclusive de engenharia, obras, alienações e locações necessários ao enfrentamento da calamidade de saúde pública e estado de emergência decorrentes da COVID-19. É possível, ainda, consultar a legislação de referência, os relatórios de execução financeira, dados dos contratados, valores, dentre outras informações, de forma estruturada e em formato aberto. A seção também disponibiliza um canal da Ouvidoria específico para denúncias, reclamações e sugestões relativas ao Coronavírus._
+_Em 03/06 foi criado no Portal da Transparência seção exclusiva para divulgar dados referentes à COVID-19 no estado de Minas. As informações disponíveis na nova seção são relativas aos Contratos Emergenciais amparados pela Lei Federal nº 13.979/2020 e Lei Estadual nº 23.640/2020 para aquisição de bens, serviços, inclusive de engenharia, obras, alienações e locações necessários ao enfrentamento da calamidade de saúde pública e estado de emergência decorrentes da COVID-19. É possível, ainda, consultar a legislação de referência, os relatórios de execução financeira, dados dos contratados, valores, dentre outras informações, de forma estruturada e em formato aberto. A seção também disponibiliza um canal da Ouvidoria específico para denúncias, reclamações e sugestões relativas ao Coronavírus._
 
 - __Ampliação das informações divulgadas no conjunto de dados de contratações emergenciais no Portal de Dados Abertos__.
 
-_Em 10/06, no Portal de Dados Abertos foram ampliadas as informações sobre o conjunto de dados de contratações emergenciais para o enfrentamento do coronavírus.
-Foram incluídos novos dados sobre o processo de compra, como por exemplo situação do processo e procedimento de contratação. Foram inclúidos também informações sobre o item de material e serviço do processo de compra (código, item, cidade de entrega, quantidade homologada e valores de referência e valores homologado). Foi alterada a separação de CSV para (,) e alteração no formato das colunas data de YYYYMMDD para YYYY-MM-DD e alterações de nomenclaturas de algumas colunas._
+_Em 10/06 foram ampliadas as informações sobre as contratações emergenciais para o enfrentamento do coronavírus no Portal de Dados Abertos.
+Foram incluídos novos dados, como, por exemplo, situação do processo de compra, procedimento de contratação e informações do item de material e serviço do processo de compra (código, item, cidade de entrega, quantidade homologada e valores de referência e valores homologado)._ 
 
 - __Ampliação das informações divulgadas na seção exclusiva do Portal da Transparência__.
 
-_Em 24/08, visando melhorar a qualidade das informações divulgadas no Portal da Transparência para as ações de enfrentamento ao combate a pandemia da COVID-19, a Controladoria-Geral do Estado em parceria com diversas Secretarias amplia o rol de funcionalidades do Portal da Transparência. Dentre várias medidas implementadas, destaca-se a utilização da ferramenta do Power BI que permite visualizações interativas e recursos de business intelligence com uma interface simples para que os usuários naveguem pelos dados de compras e contratações emergenciais para o enfrentamento da COVID-19. Também foi disponibilizada a relação das doações recebidas pela força-tarefa, gerenciada pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações. Já com as parcerias promovidas entre a CGE, SEDESE e SEDE, o Portal da Transparência inicia a divulgação das medidas de enfrentamento e mitigação dos efeitos socioeconômicos da pandemia. Nessa seção o cidadão pode se informar sobre as políticas implementadas pelo governo com foco na proteção social e acessar as medidas econômicas adotadas para minimizar os impactos da pandemia na economia._
+_Em 24/08 a CGE, em parceria com diversas Secretarias, ampliou o escopo e a qualidade das informações divulgadas no Portal da Transparência sobre as ações de enfrentamento ao combate a pandemia da COVID-19. Destaca-se a criação de painéis com visualizações interativas e recursos de business intelligence com uma interface simples para que os usuários naveguem pelos dados de compras e contratações emergenciais para o enfrentamento da COVID-19. Disponibilização da relação das doações recebidas pela força-tarefa, gerenciada pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações. Já com as parcerias promovidas entre a CGE, SEDESE e SEDE, o Portal da Transparência inicia a divulgação das medidas de enfrentamento e mitigação dos efeitos socioeconômicos da pandemia. Nessa seção o cidadão pode se informar sobre as políticas implementadas pelo governo com foco na proteção social e acessar as medidas econômicas adotadas para minimizar os impactos da pandemia na economia._
 
 ## Prevenção – Ações preventivas realizadas
 
 - __Melhorias no Portal da Transparência__. 
 
-Anonimização de dados pessoais; 
-
-_Em 21/12 as consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada. Tal método consiste em ocultar os três primeiros dígitos e os dois últimos dígitos verificadores dos CPFs: assim, o que antes aparecia como 000.000.000-00 agora será visto como ***.000.000-**, em todas as formas de exibição (gráficos e tabelas; formulários de detalhamento; tabela do nível nome do classificado; pesquisa avançada; impressão e exportação para csv ou pdf). Esse método foi aplicado nas consultas de: Despesas; Restos a Pagar; Compras e Contratos; Concursos realizados; Diárias; Viagens; Gestão da Frota; Patrimônio._
-
-Inclusão da possibilidade de marcar e desmarcar todos os checkboxes nas [pesquisas avançadas](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-pesquisa-avancada); 
-
-_A partir de 14/04, o Portal da Transparência passou a contar com uma nova funcionalidade nas Pesquisas Avançadas: opção de marcar/desmarcar todas as opções disponíveis para consulta. O usuário ao entrar na Pesquisa Avançada das consultas do Portal, pode marcar/desmarcar o campo "Exibir Todos", e assim com apenas um clique selecionar todas as opções que deseja exibir na sua consulta personalizada._
-
-Inclusão de modos de pesquisa adicionais [consulta restos a pagar](http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar?view=estado_restospagar); 
-
-_Em 27/08 com o objetivo de facilitar as consultas do Portal da Transparência de Minas Gerais, o cidadão terá a disposição mais uma ferramenta. A consulta de Restos a Pagar passa a contar com o Filtro "Favorecido", como já acontece na consulta de Despesa. Assim, o cidadão poderá consultar as despesas de exercícios anteriores utilizando as opções de consulta de Nome ou CPF/CNPJ do Credor pessoa física/jurídica. Essa opção de consulta por favorecido está disponível para todos os anos da consulta de Restos a Pagar, de 2002 a 2020._
-
-Inclusão do filtro “situação do servidor” na [consulta de remuneração](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); 
-
-_Em 20/04 foi disponibilizada na consulta de Remuneração o filtro Situação do Servidor, essa alteração teve por objetivo melhorar a navegação e a busca quando estiverem sendo divulgados no Portal dados sobre servidores ativos, inativos, pensionistas entre outros._
-
-Incorporação [fale conosco](http://transparencia.mg.gov.br/faleconosco) centralizado; 
-
-_Em 08/05 foi realizada a incorporação do Fale Conosco padrão do Estado de Minas Gerais ao Portal da Transparência. Com essa alteração foi criado um fale conosco do Portal da Transparência padronizado e o acompanhamento das demandas passou a ser realizdo pela equipe da DTA._ 
-
-Integração com SIAFI - campo histórico do empenho; 
-
-_Em 13/07, foi incluído nas consultas de Despesas, Restos a Pagar e Diárias informações sobre no campo Histórico de Empenho disponíveis no SIAFI. Nesse sentido, com o objetivo de padronizar as informações destes campos no SIAFI, foi recomendado aos responsáveis pelo preenchimento a observação dos seguintes procedimentos: descrever nos campos Histórico de Apropriação do Empenho e Histórico de Referência informações claras e objetivas que facilitem a identificação da despesa e não utilizar informações pessoais do beneficiário da despesa, como por exemplo: Nome, CPF, PIS/NIS, endereço, e-mails e outros dados que caracterizem informação pessoal. Essas mudanças estão alinhadas com a diretriz estratégica do Governo de Minas Gerais que tem se empenhado em fortalecer e ampliar a transparência dos atos de gestão pública e de transparência institucional._
-
-Atualização da interface de divulgação da consulta de remuneração; 
-
-_Em 27/08, com o objetivo de agregar informações e facilitar a navegação às consultas do Portal da Transparência de Minas Gerais, o cidadão agora tem à disposição novas funcionalidades. A consulta de Remuneração de servidores do Poder Executivo Estadual foi reestruturada, de forma que o cidadão poderá consultar o histórico mensal da remuneração de determinado servidor, numa mesma página, bem como realizar o download desse histórico, que inclui também a situação funcional do servidor selecionado em cada mês._
-
-Inclusão da memória de cálculo valor pago
-
-_Em 06/05, foi alterada a forma de divulgação de informações sobre pagamentos de despesas. Mais especificamente na: alteração do formulário de detalhamento (opção pagamento); alteração do nome das tabelas; alteração da conceito dos tooltips das consultas de despesa, restos a pagar e diárias; alteração do cálculo do valor repassado na consulta de convênios. Essa alteração foi necessária para esclarecer dúvidas aos credores sobre o efetivo depósito dos valores registrados no Portal como pagos, sendo motivo de questionamentos recorrentes à equipe gestora do Portal da Transparência, inclusive por parte de órgãos estaduais._
+_Ao longo de 2020 diversas funcionalidades foram incorporadas ao Portal da Transparência com o objetivo de aumentar a usabilidade e melhorar a experiência dos usuários do Portal. Merecem destaque as alterações realizadas na consulta de Remuneração de servidores do Poder Executivo. Com as alterações o cidadão pode consultar o histórico mensal da remuneração de determinado servidor, numa mesma página, bem como realizar o download desse histórico; bem como a inserção da situação das ordens de pagamento. O efetivo depósito dos valores registrados no Portal como pagos era motivo de questionamentos recorrentes à equipe gestora do Portal da Transparência, tanto por parte de credores quanto por parte de órgãos estaduais._
 
 - __Guia de Transparência Ativa__
 
-_ Em 26/06, foi aberto o prazo para envio de comentários e sugestões à Consulta Pública sobre o Guia de Transparência Ativa. O prazo para recebimento de contribuições da consulta pública vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições diretamente no texto do Guia. O Guia de Transparência Ativa é uma compilação de obrigações, cujo objetivo é auxiliar no correto cumprimento da Lei Federal nº 12.527, de 18 de novembro de 2011 - Lei de Acesso à Informação (LAI) e demais normas que regem o assunto. Além disso, o guia, em conjunto com o checklist de transparência ativa, serve como referência para condução da ação de Avaliação da transparência ativa nos sítios eletrônicos dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais prevista no Plano de Atividades de Controle Interno (PACI) 2020._
+_Em 26/06, foi aberto o prazo para envio de comentários e sugestões à Consulta Pública sobre o [Guia de Transparência Ativa](https://github.com/transparencia-mg/guia-transparencia-ativa). O Guia de Transparência Ativa é uma compilação de obrigações, cujo objetivo é auxiliar no correto cumprimento da Lei Federal nº 12.527, de 18 de novembro de 2011 - Lei de Acesso à Informação (LAI) e demais normas que regem o assunto. Além disso, o guia, em conjunto com o checklist de transparência ativa, serve como referência para condução da ação de Avaliação da transparência ativa nos sítios eletrônicos dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais prevista no Plano de Atividades de Controle Interno (PACI) 2020._
 
 - __Lançamento Portal de Dados Abertos__
 
 _Em 18/07, a seção de Dados Abertos do Portal da Transparência foi sucedida pelo novo Portal de Dados Abertos. A seção de Dados Abertos do Portal da Transparência teve como escopo dar publicidade a informações sobre os processos de gestão de finanças públicas dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais. Com escopo mais amplo, o Portal de Dados Abertos visa ser ponto de referência para busca e acesso a dados públicos sobre quaisquer assuntos de interesse da sociedade, como saúde, educação, segurança pública, assistência social, esportes, turismo. Além disso, com o intuito de aumentar a qualidade dos dados e metadados publicados, os novos conjuntos de dados serão documentados conforme padrão de metadados legível por máquina. Isso possibilita, por exemplo, a validação automática se os dados estão em conformidade com a documentação._
 
-- __Ação 53 Plano de Integridade __
+- __Ação 53 do Plano de Integridade da CGE__
 
-_29/10 foi realizada a revisão do item perguntas e respostas do sítio eletrônico com inclusão de respostas com as perguntas mais recorrentes do e-SIC enviadas a CGE. O trabalho faz parte da ação 53 do Plano de Integridade da CGE que teve por objetivo o aprimoramento da divulgação espontânea de informações de interesse coletivo ou geral e redução das demandas do e-SIC e Fale Conosco. [Perguntas Frequentes](http://transparencia.mg.gov.br/perguntas-frequentes)_
+_Em 29/10 foi realizada a revisão do item [perguntas e respostas](http://transparencia.mg.gov.br/perguntas-frequentes) do sítio eletrônico com inclusão de respostas com as perguntas mais recorrentes do Fale Conosco enviadas a CGE. As perguntas e respostas sofreram uma revisão substancial, indicando que a revisão era necessária para melhoria do conteúdo. O trabalho faz parte da ação 53 do Plano de Integridade da CGE que teve por objetivo o aprimoramento da divulgação espontânea de informações de interesse coletivo ou geral e redução das demandas do e-SIC e Fale Conosco._
 
 - __INOVA 2020: Dados Abertos sem Fricção__ 
 
-_ Em 01/12, a Controladoria-Geral do Estado de MG (CGE) faz parte do INOVA 2020 - 3ª Semana de Inovação, entre os dias 30/11 e 4/12, evento promovido pela Prodemge com o objetivo de promover a inovação, o conhecimento e a troca de experiências entre órgãos e entidades da área pública, academia e iniciativa privada. As oficinas serão online e gratuitas. No dia 01 de dezembro a CGE apresenta “A Trilha é Data Science: Dados abertos sem fricção”. A oficina irá demonstrar, de forma simples, ferramentas que tem como objetivo reduzir ou eliminar “a fricção”, ou seja, o tempo que os consumidores gastam para poder entender e trabalhar com dados abertos.  “Queremos ensinar aos participantes como documentar os dados de forma que não haja atrito/fricção nessa compreensão – usando especificações já conhecidas nesse mundo de dados. E essa etapa é crucial no desenvolvimento de uma boa política de dados abertos.”, explicou, André Luiz Guimarães Amorim, da diretoria de transparência ativa da CGE. [Oficina realizada](https://www.youtube.com/embed/tZ0bmlnqMuY) durante a Semana INOVA da PRODEMGE_
+_Em 01/12 a CGE participou da 3ª Semana de Inovação (INOVA 2020), ocorrida entre os dias 30/11 e 4/12. O evento, promovido pela Prodemge, possui como objetivo promover a inovação, o conhecimento e a troca de experiências entre órgãos e entidades da área pública, academia e iniciativa privada. A CGE sugeriu e apresentou a oficina [“Dados abertos sem fricção”](https://www.youtube.com/embed/tZ0bmlnqMuY), que visou demonstrar, de forma simples, ferramentas que tem como objetivo reduzir ou eliminar “a fricção” no uso de dados abertos, ou seja, o tempo que os consumidores gastam para poder entender e trabalhar com dados abertos._
 
-- __Dados abertos é o tema do 17º episódio do PodeFalar!__
+- __Dados abertos é o tema do [17º episódio do PodeFalar](https://www.youtube.com/watch?v=uFdYbIc_4ws)!__
 
-_Em 03/12, a Subcontroladora de Transparência e Integridade da Controladoria-Geral do Estado de MG, Nicolle Bleme, conversa com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci, sobre transparência ativa e, mais especificamente, dados abertos. Segundo definição da própria Open Knowledge Brasil, dados são abertos quando qualquer pessoa pode livremente acessá-los, utilizá-los, modificá-los e compartilhá-los para qualquer finalidade, estando sujeito a, no máximo, a exigências que visem preservar sua proveniência e sua abertura. Por esses motivos, dados abertos são uma importante ferramenta para o controle social e o combate à corrupção. “É uma honra conversar com vocês e é muito importante que de dentro do governo se produza conteúdos como esse.”, afirmou Campagnucci. [disponibilizado no youtube](https://www.youtube.com/watch?v=uFdYbIc_4ws)_
+_Em 03/12, a Subcontroladora de Transparência e Integridade da CGE, Nicolle Bleme, conversou com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci, sobre transparência ativa e, mais especificamente, dados abertos. Segundo definição da própria Open Knowledge Brasil, dados são abertos quando qualquer pessoa pode livremente acessá-los, utilizá-los, modificá-los e compartilhá-los para qualquer finalidade, estando sujeito a, no máximo, a exigências que visem preservar sua proveniência e sua abertura._
 
 - __Publicação do conjunto de dados [Remuneração dos Servidores Ativos do Poder Executivo](http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos)__.
 
-_Em 04/12, os arquivos da serie histórica a partir de junho de 2012 contendo a remuneração dos servidores públicos ativos do Poder Executivo Estadual foram disponibilizados no Portal de Dados Abertos no endereço eletrônico: http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos_
+_Em 04/12, os arquivos da serie histórica a partir de junho de 2012 contendo a remuneração dos servidores públicos ativos do Poder Executivo Estadual foram disponibilizados no [Portal de Dados Abertos](http://dados.mg.gov.br/dataset/remuneracao-servidores-ativos). Foram corrigidas inconsistências na formatação dos arquivos que impedem a facilidade na análise das informações, e, além disso, as unidades administrativas de exercício de determinados servidores sofreram restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado e foram providenciadas a ocultação da parte sob sigilo._
 
 - __Descaracterização de CPFs__. 
 
 _A partir de 17/12, as consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada (`***.000.000-**`). O objetivo é preservar o dever de transparência, sedimentado na Lei de Responsabilidade Fiscal e na Lei de Acesso à Informação, e o dever de proteção dados pessoais, de que trata a Lei Geral de Proteção de Dados._
 
+- __Transparência Ativa em Números__.
+
+
+
 # Apêndice
+
+## Melhorias no Portal da Transparência - Detalhamento
+
+- Anonimização de dados pessoais
+
+_Em 21/12 as consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada. Tal método consiste em ocultar os três primeiros dígitos e os dois últimos dígitos verificadores dos CPFs: assim, o que antes aparecia como 000.000.000-00 agora será visto como ***.000.000-**, em todas as formas de exibição (gráficos e tabelas; formulários de detalhamento; tabela do nível nome do classificado; pesquisa avançada; impressão e exportação para csv ou pdf). Esse método foi aplicado nas consultas de: Despesas; Restos a Pagar; Compras e Contratos; Concursos realizados; Diárias; Viagens; Gestão da Frota; Patrimônio._
+
+- Inclusão da possibilidade de marcar e desmarcar todos os checkboxes nas [pesquisas avançadas](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-pesquisa-avancada)
+
+_A partir de 14/04, o Portal da Transparência passou a contar com uma nova funcionalidade nas Pesquisas Avançadas: opção de marcar/desmarcar todas as opções disponíveis para consulta. O usuário ao entrar na Pesquisa Avançada das consultas do Portal, pode marcar/desmarcar o campo "Exibir Todos", e assim com apenas um clique selecionar todas as opções que deseja exibir na sua consulta personalizada._
+
+- Inclusão de modos de pesquisa adicionais [consulta restos a pagar](http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar?view=estado_restospagar)
+
+_Em 27/08 com o objetivo de facilitar as consultas do Portal da Transparência de Minas Gerais, o cidadão terá a disposição mais uma ferramenta. A consulta de Restos a Pagar passa a contar com o Filtro "Favorecido", como já acontece na consulta de Despesa. Assim, o cidadão poderá consultar as despesas de exercícios anteriores utilizando as opções de consulta de Nome ou CPF/CNPJ do Credor pessoa física/jurídica. Essa opção de consulta por favorecido está disponível para todos os anos da consulta de Restos a Pagar, de 2002 a 2020._
+
+- Inclusão do filtro “situação do servidor” na [consulta de remuneração](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); 
+
+_Em 20/04 foi disponibilizada na consulta de Remuneração o filtro Situação do Servidor, essa alteração teve por objetivo melhorar a navegação e a busca quando estiverem sendo divulgados no Portal dados sobre servidores ativos, inativos, pensionistas entre outros._
+
+- Incorporação [fale conosco](http://transparencia.mg.gov.br/faleconosco) centralizado
+
+_Em 08/05 foi realizada a incorporação do Fale Conosco padrão do Estado de Minas Gerais ao Portal da Transparência. Com essa alteração foi criado um fale conosco do Portal da Transparência padronizado e o acompanhamento das demandas passou a ser realizdo pela equipe da DTA._ 
+
+- Integração com SIAFI - campo histórico do empenho
+
+_Em 13/07, foi incluído nas consultas de Despesas, Restos a Pagar e Diárias informações sobre no campo Histórico de Empenho disponíveis no SIAFI. Nesse sentido, com o objetivo de padronizar as informações destes campos no SIAFI, foi recomendado aos responsáveis pelo preenchimento a observação dos seguintes procedimentos: descrever nos campos Histórico de Apropriação do Empenho e Histórico de Referência informações claras e objetivas que facilitem a identificação da despesa e não utilizar informações pessoais do beneficiário da despesa, como por exemplo: Nome, CPF, PIS/NIS, endereço, e-mails e outros dados que caracterizem informação pessoal. Essas mudanças estão alinhadas com a diretriz estratégica do Governo de Minas Gerais que tem se empenhado em fortalecer e ampliar a transparência dos atos de gestão pública e de transparência institucional._
+
+- Atualização da interface de divulgação da consulta de remuneração
+
+_Em 27/08, com o objetivo de agregar informações e facilitar a navegação às consultas do Portal da Transparência de Minas Gerais, o cidadão agora tem à disposição novas funcionalidades. A consulta de Remuneração de servidores do Poder Executivo Estadual foi reestruturada, de forma que o cidadão poderá consultar o histórico mensal da remuneração de determinado servidor, numa mesma página, bem como realizar o download desse histórico, que inclui também a situação funcional do servidor selecionado em cada mês._
+
+- Inclusão da memória de cálculo valor pago
+
+_Em 06/05, foi alterada a forma de divulgação de informações sobre pagamentos de despesas. Mais especificamente na: alteração do formulário de detalhamento (opção pagamento); alteração do nome das tabelas; alteração da conceito dos tooltips das consultas de despesa, restos a pagar e diárias; alteração do cálculo do valor repassado na consulta de convênios. Essa alteração foi necessária para esclarecer dúvidas aos credores sobre o efetivo depósito dos valores registrados no Portal como pagos, sendo motivo de questionamentos recorrentes à equipe gestora do Portal da Transparência, inclusive por parte de órgãos estaduais._
 
 ## Transparência Ativa em Números
 
