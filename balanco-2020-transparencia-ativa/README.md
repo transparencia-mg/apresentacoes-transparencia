@@ -103,12 +103,12 @@ _Em 06/05, foi alterada a forma de divulgação de informações sobre pagamento
 
 - Acessos Portal da Transparência e Portal de Dados Abertos:
 
-| instância | período   | sessões   | tempo médio da sessão | sessões por usuário | páginas por sessão | visualizações de página | visualizações únicas | tempo médio na página | taxa de rejeição | usuários novos | cluster mais acessado |
+| instância | período   | sessões   | sessões COVID-19      |tempo médio da sessão | sessões por usuário | páginas por sessão | visualizações de página | visualizações únicas | tempo médio na página | taxa de rejeição | usuários novos | cluster mais acessado |
 |-----------|-----------|-----------|-----------------------|---------------------|--------------------|-------------------------|----------------------|-----------------------|------------------|----------------|-----------------------|
-| PORTAL    | ano       | 1.633.768 | 00:04:19              | 1,72                | 6,37               | 10.408.519              | 7.839.830            | 00:00:48              | 33,01%           | 931.080        | remuneracao           |
-| CKAN      | semestre  | 13.192    | 00:01:41              | 1,26                | 3,26               | 42.962                  | 30.490               | 00:00:44              | 50,31%           | 10.505         | covid-19              |
-| PORTAL    | media_mes | 136.147   | -                     | -                   | -                  | 867.377                 | 653.319              | -                     | -                | 77.590         | -                     |
-| CKAN      | media_mes | 2.638     | -                     | -                   | -                  | 8.592                   | 6.098                | -                     | -                | 2.101          | -                     |
+| PORTAL    | ano       | 1.633.768 | 27.486 (mai-dez)      | 00:04:19              | 1,72                | 6,37               | 10.408.519              | 7.839.830            | 00:00:48              | 33,01%           | 931.080        | remuneracao           |
+| CKAN      | semestre  | 13.192    | 2.480                 |00:01:41              | 1,26                | 3,26               | 42.962                  | 30.490               | 00:00:44              | 50,31%           | 10.505         | covid-19              |
+| PORTAL    | media_mes | 136.147   | 5.497 (mai-dez)       |-                     | -                   | -                  | 867.377                 | 653.319              | -                     | -                | 77.590         | -                     |
+| CKAN      | media_mes | 2.638     | 473 (jul-dez)         | -                   | -                  | 8.592                   | 6.098                | -                     | -                | 2.101          | -                     |
 
 - Atendimentos Fale Conosco, Acesso à Informação e Casos de erros e evoluções do Portal reportados:
 
