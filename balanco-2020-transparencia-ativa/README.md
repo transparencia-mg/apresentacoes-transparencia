@@ -23,6 +23,12 @@ Foram incluídos novos dados, como, por exemplo, situação do processo de compr
 
 _Em 24/08 a CGE, em parceria com diversas Secretarias, ampliou o escopo e a qualidade das informações divulgadas no Portal da Transparência sobre as ações de enfrentamento ao combate a pandemia da COVID-19. Destaca-se a criação de painéis com visualizações interativas e recursos de business intelligence com uma interface simples para que os usuários naveguem pelos dados de compras e contratações emergenciais para o enfrentamento da COVID-19. Disponibilização da relação das doações recebidas pela força-tarefa, gerenciada pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações. Já com as parcerias promovidas entre a CGE, SEDESE e SEDE, o Portal da Transparência inicia a divulgação das medidas de enfrentamento e mitigação dos efeitos socioeconômicos da pandemia. Nessa seção o cidadão pode se informar sobre as políticas implementadas pelo governo com foco na proteção social e acessar as medidas econômicas adotadas para minimizar os impactos da pandemia na economia._
 
+- __Transparência Ativa em Números__.
+
+O Portal da Transparência teve 1.633.768 acessos em 2020, sendo 27.698 na seção exclusiva para divulgar dados referentes à COVID-19 no estado de Minas, lançada em 03/06.
+
+Já o Portal de Dados abertos teve 20.797 acessos em 2020. Desse total, 2.228 (10,7%) foram para o conjunto de dados de Compras Emergenciais COVID-19. Até 16/07 somente foram computados os acessos ao Portal de Dados Abertos realizados via redirecionamento do Portal da Transparência. Isso significa que o volume de acessos até julho está subestimado, mas o valor real não pode ser aferido. Como exemplo, todos os acessos realizados pelo link disponível na notícia [Novos dados sobre a COVID-19 em MG disponibilizados em formato aberto](https://cge.mg.gov.br/noticias-artigos/740-novos-dados-sobre-a-covid-19-em-mg-disponibilizados-em-formato-aberto) não foram computados.
+
 ## Prevenção – Ações preventivas realizadas
 
 - __Melhorias no Portal da Transparência__. 
@@ -56,10 +62,6 @@ _Em 04/12, os arquivos da serie histórica a partir de junho de 2012 contendo a 
 - __Descaracterização de CPFs__. 
 
 _A partir de 17/12, as consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada (`***.000.000-**`). O objetivo é preservar o dever de transparência, sedimentado na Lei de Responsabilidade Fiscal e na Lei de Acesso à Informação, e o dever de proteção dados pessoais, de que trata a Lei Geral de Proteção de Dados._
-
-- __Transparência Ativa em Números__.
-
-
 
 # Apêndice
 
